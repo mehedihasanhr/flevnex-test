@@ -150,7 +150,7 @@ We would like to thank all our contributors and the open-source community for th
 
 ---
 
-If you have any questions or need further assistance, feel free to reach out via [email@example.com](mailto:email@example.com). Thank you for using MyProduct!
+If you have any questions or need further assistance, feel free to reach out via [mehedihasan.hr.324@gmail.com](mailto:mehedihasan.hr.324@gmail.com). Thank you for using MyProduct!
 
 ```
 
