@@ -1,6 +1,5 @@
 Sure, I can add the line for running database seeders in the installation steps. Here's the updated README:
 
-````markdown
 # MyProduct README
 
 ## Introduction
@@ -29,7 +28,6 @@ First, clone the repository from GitHub:
 git clone https://github.com/yourusername/myproduct.git
 cd myproduct
 ```
-````
 
 ### 2. Install PHP Dependencies
 
