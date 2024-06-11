@@ -136,23 +136,6 @@ If you encounter any issues during setup, consider the following steps:
 -   Verify your `.env` configuration.
 -   Check for any error messages in the console or logs.
 
-## Contributing
-
-We welcome contributions! Please read our [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct and the process for submitting pull requests.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-We would like to thank all our contributors and the open-source community for their support.
-
 ---
 
 If you have any questions or need further assistance, feel free to reach out via [mehedihasan.hr.324@gmail.com](mailto:mehedihasan.hr.324@gmail.com). Thank you for using MyProduct!
-
-```
-
-I've added step 7 for seeding the database. Let me know if you need any other changes!
-```
