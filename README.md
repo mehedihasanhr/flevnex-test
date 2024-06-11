@@ -1,3 +1,6 @@
+Sure, I can add the line for running database seeders in the installation steps. Here's the updated README:
+
+````markdown
 # MyProduct README
 
 ## Introduction
@@ -26,6 +29,7 @@ First, clone the repository from GitHub:
 git clone https://github.com/yourusername/myproduct.git
 cd myproduct
 ```
+````
 
 ### 2. Install PHP Dependencies
 
@@ -86,7 +90,15 @@ Run the database migrations to set up the database schema:
 php artisan migrate
 ```
 
-### 7. Build Frontend Assets
+### 7. Seed the Database
+
+Run the database seeders to populate the database with initial data:
+
+```sh
+php artisan db:seed
+```
+
+### 8. Build Frontend Assets
 
 Compile the frontend assets using the following command:
 
@@ -96,7 +108,7 @@ npm run dev
 npm run prod
 ```
 
-### 8. Start the Development Server
+### 9. Start the Development Server
 
 Finally, start the Laravel development server:
 
@@ -141,3 +153,8 @@ We would like to thank all our contributors and the open-source community for th
 ---
 
 If you have any questions or need further assistance, feel free to reach out via [email@example.com](mailto:email@example.com). Thank you for using MyProduct!
+
+```
+
+I've added step 7 for seeding the database. Let me know if you need any other changes!
+```
